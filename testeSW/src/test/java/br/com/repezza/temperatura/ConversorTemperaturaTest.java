@@ -1,8 +1,10 @@
-package br.com.repezza.testeSW;
+package br.com.repezza.temperatura;
 
 import static org.junit.Assert.*;
 
 import org.junit.Test;
+
+import br.com.repezza.temperatura.ConversorTemperatura;
 
 public class ConversorTemperaturaTest {
 

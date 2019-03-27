@@ -1,4 +1,4 @@
-package br.com.repezza.testeSW;
+package br.com.repezza.temperatura;
 
 import static org.junit.Assert.*;
 

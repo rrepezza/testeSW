@@ -1,4 +1,4 @@
-package br.com.repezza.testeSW;
+package br.com.repezza.temperatura;
 
 public class ConversorTemperatura {
 	
