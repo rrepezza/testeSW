@@ -8,7 +8,8 @@ public class TemperaturaCelsiusTest {
 
 	@Test
 	public void testConverteCelsiusParaFahrenheit() {
-		fail("Not yet implemented");
+		double temperaturaEmCelsius = new TemperaturaCelsius(0).converteCelsiusParaFahrenheit();
+		assertEquals(32.0, temperaturaEmCelsius, 0);
 	}
 
 }
